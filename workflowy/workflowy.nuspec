@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>workflowy</id>
+    <version>1.0.15</version>
+    <title>WorkFlowy</title>
+    <authors>WorkFlowy, Inc.</authors>
+    <owners>sirk390</owners>
+    <projectUrl>https://workflowy.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+
+    <tags>workflowy productivity todolist organiser</tags>
+    <summary>Workflowy is a web-based outliner to organize your brain</summary>
+    <description>WorkFlowy is a simple organizational tool that enables users 
+    to create personal to-do lists, take notes, and many more. 
+    It is a text-based, zoomable bulleted list that is very flexible in allowing users
+    to organize ideas in any way they want. 
+    It is a notebook for lists which can be separated or categorized as lists for goals,
+    projects, to-dos, ideas, links and others. It is completely searchable, and by zooming
+    on a particular list or word, users can drill down to focus on that item alone.
+    </description>
+  </metadata>
+</package>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>expressvpn</id>
+    <version>6.6.0.4121</version>
+    <title>Expressvpn VPN Service</title>
+    <authors>ExpressVPN</authors>
+    <owners>chocolatey</owners>
+    <projectUrl>https://www.expressvpn.com</projectUrl>
+    <copyright>ExpressVPN 2018</copyright>
+    <tags>expressvpn VPN</tags>
+    <summary>ExpressVPN enables users to protect their privacy and security online</summary>
+    <description>One of the world’s largest providers of VPN services, ExpressVPN enables users worldwide to protect their privacy and security online with just a few clicks.</description>
+
+  </metadata>
+</package>

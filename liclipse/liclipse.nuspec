@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>liclipse</id>
+    <version>4.5.2</version>
+    <title>liclipse</title>
+    <authors>Brainwy Software Ltda</authors>
+    <owners>chocolatey</owners>
+    <projectUrl>https://www.liclipse.com/</projectUrl>
+    <licenseUrl>https://www.liclipse.com/license.html</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+
+    <tags>liclipse eclipse</tags>
+    <summary>Lightweight editors, theming and usability improvements for Eclipse</summary>
+    <description>Liclipse provides:
+        * A fast editor supporting many languages out of the box. View supported languages
+        * Support for TextMate Bundles. View TextMate Bundles Integration
+        * A simple way to add support for a new language
+        * Usability improvements for all Eclipse editors featuring:
+        * Multiple cursors
+        * Vertical indent guides
+        * Themed scrollbars
+        * Improved text search capabilities (with Lucene index-based searching, support for external folders, open editors and additional filtering on results page)
+        * HTML preview for the RST, Markdown and HTML editors
+        * Native installers
+        * Improved theming support based on Eclipse 4 improvements
+ </description>
+  </metadata>
+</package>
