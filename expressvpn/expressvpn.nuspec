@@ -2,10 +2,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>expressvpn</id>
-    <version>6.6.0.4121</version>
+    <version>6.7.0.4772</version>
     <title>Expressvpn VPN Service</title>
     <authors>ExpressVPN</authors>
-    <owners>chocolatey</owners>
+    <owners>sirk390</owners>
     <projectUrl>https://www.expressvpn.com</projectUrl>
     <copyright>ExpressVPN 2018</copyright>
     <tags>expressvpn VPN</tags>
