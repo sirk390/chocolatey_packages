@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>liclipse</id>
-    <version>4.5.2</version>
+    <version>5.0.1</version>
     <title>liclipse</title>
     <authors>Brainwy Software Ltda</authors>
     <owners>chocolatey</owners>
@@ -10,7 +10,7 @@
     <licenseUrl>https://www.liclipse.com/license.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
 
-    <tags>liclipse eclipse</tags>
+    <tags>liclipse eclipse pydev python editor</tags>
     <summary>Lightweight editors, theming and usability improvements for Eclipse</summary>
     <description>Liclipse provides:
         * A fast editor supporting many languages out of the box. View supported languages
