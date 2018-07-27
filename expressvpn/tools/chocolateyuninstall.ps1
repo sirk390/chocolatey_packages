@@ -1,12 +1,11 @@
 ﻿
 
-
 $ErrorActionPreference = 'Stop';
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
   softwareName  = 'expressvpn*'
   fileType      = 'EXE'
-  silentArgs    = "/S"
+  silentArgs    = "/silent"
   validExitCodes= @(0, 3010, 1605, 1614, 1641)
 }
 
