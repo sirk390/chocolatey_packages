@@ -1,0 +1,10 @@
+Update a package:
+   * Update version
+   * Update url and url64 , checksum, checksum64
+   * Use "choco pack" to regenerate the "liclipse.5.0.3.nupkg"
+   * Test using "choco upgrade -s ." (set source directory)
+
+Upload it using:
+
+  choco apikey --key 591aa1ef-30c9-43d1-aec7-0d202d52e89c --source https://push.chocolatey.org/
+  choco push MyPackage.1.0.nupkg --source https://push.chocolatey.org/

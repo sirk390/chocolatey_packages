@@ -1,8 +1,8 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'http://www.mediafire.com/file/dw6b7m6b925c5d7/liclipse_5.0.3_win32.x86.exe'
-$url64      = 'http://www.mediafire.com/file/ioua6wk85w5cn76/liclipse_5.0.3_win32.x86_64.exe'
+$url        = 'https://www.mediafire.com/file/dw6b7m6b925c5d7/liclipse_5.0.3_win32.x86.exe'
+$url64      = 'https://www.mediafire.com/file/ioua6wk85w5cn76/liclipse_5.0.3_win32.x86_64.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
