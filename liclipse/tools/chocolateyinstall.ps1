@@ -1,8 +1,8 @@
 ﻿
 $ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'http://www.mediafire.com/file/jwpwnn3o91cw74a/liclipse_5.0.1_win32.x86.exe'
-$url64      = 'http://www.mediafire.com/file/7e6g7t7xorcpqi7/liclipse_5.0.1_win32.x86_64.exe'
+$url        = 'http://www.mediafire.com/file/dw6b7m6b925c5d7/liclipse_5.0.3_win32.x86.exe'
+$url64      = 'http://www.mediafire.com/file/ioua6wk85w5cn76/liclipse_5.0.3_win32.x86_64.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -13,9 +13,9 @@ $packageArgs = @{
 
   softwareName  = 'liclipse*'
 
-  checksum      = '90AB31D2F593F00141855E9042051429E46E9850E78BA57FEADD93C5C49C001A'
+  checksum      = '7636059ECDD740F7A6077FDC9A97CC7761AAD171239FE903F3B59BA261F74CAC'
   checksumType  = 'sha256'
-  checksum64    = '83EDCD3D91B92F3762EAEE930991DC084E1FA1ACF95E18FF21B7B5680E24B2F2'
+  checksum64    = 'A9CC37DDDFC4A723D60CE6C195CE6C19A862D276000CE509D5819E6B4A0A15E2'
   checksumType64= 'sha256'
 
   validExitCodes= @(0, 3010, 1641)
