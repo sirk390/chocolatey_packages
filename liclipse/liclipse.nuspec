@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>liclipse</id>
-    <version>5.2.2</version>
+    <version>5.3</version>
     <title>liclipse</title>
     <authors>Brainwy Software Ltda</authors>
     <owners>chocolatey</owners>
